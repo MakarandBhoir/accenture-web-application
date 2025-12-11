@@ -1,0 +1,77 @@
+# .gitignore for .NET projects
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Others
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+*.dbmdl
+*.bak
+*.backup
+*.swp
+*.tmp
+*.tmp_proj
+*.pidb
+*.svclog
+*.pdb
+*.cache
+*.ide
+*.sdf
+*.orig
+*.sln.ide
+
+# IIS Express
+.vs/
+
+# Rider
+.idea/
+*.sln.iml
+
+# DotCover
+*.dotCover
+
+# NCrunch
+*.ncrunch*
+.*crunch*.local.xml
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Azure Pipelines
+*.azure-pipelines.yml
+
+# Local history for Visual Studio
+.localhistory/
+
+# Windows image file caches
+Thumbs.db
+desktop.ini
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Dotnet watch
+**/node_modules/
+
+# Others
+*.vsix
+*.nupkg
+*.snupkg
